@@ -1,4 +1,4 @@
 # hello-world
 
-Greetings
+Greetings:
 I'm a man of few words.
